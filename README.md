@@ -1,6 +1,6 @@
 # BT4222_Toxic-Comment-Project
 
-Google Drove Link : https://drive.google.com/open?id=1NGzf8y7A4pGnjmDR326g0lKgS7fgFx7-
+Google Drive Link : https://drive.google.com/open?id=1NGzf8y7A4pGnjmDR326g0lKgS7fgFx7-
 
 
 <h1> <u>Running the Chatbot</u> </h1>
