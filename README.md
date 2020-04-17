@@ -7,10 +7,10 @@ Google Drive Link : https://drive.google.com/drive/folders/1NGzf8y7A4pGnjmDR326g
 <li> Download the Chatbotzip file from the google drive </li>
  <li> Unzip the folder </li>
  <li> Open the folder in an IDE (i.e preferrably pycharm)</li>
- <li> Install all the dependencies as detailed in the <i>requirementsChatbot.txt</i>  <u> This must be installed in the directory as it uses a virtual environment</u> </li>
+ <li> Install all the dependencies as detailed in the <i>requirementsChatbot.txt</i>  <b> This must be installed in the directory as it uses a virtual environment</b> </li>
 
  <li> Open a terminal and from the directory, run the command  <i>python app.py</i> 
- <u> Use ChatbotTerminalCommand.png as a reference to run the command </u> </li>   
+ <b> Use ChatbotTerminalCommand.png as a reference to run the command </b> </li>   
  <li> The chatbot should be running at : http://127.0.0.1:5000/ (Open in chrome browser to see proper formatting rendered) </li>
 
           
