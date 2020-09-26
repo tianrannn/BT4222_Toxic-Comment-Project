@@ -87,7 +87,7 @@ spacy==2.1.9
 SQLAlchemy==1.2.19
 srsly==1.0.2
 tensorboard==1.15.0
-tensorflow==1.14.0
+tensorflow==1.15.4
 tensorflow-estimator==1.15.1
 tensorflow-gpu==1.15.0
 termcolor==1.1.0
