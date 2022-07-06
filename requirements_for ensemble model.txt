@@ -35,7 +35,7 @@ future==0.17.1
 google==2.0.2
 google-search-results-serpwow==1.1.6
 googletrans-temp==2.3.0
-html5lib==0.9999999
+html5lib==0.999999999
 identify==1.4.0
 idna==2.8
 importlib-metadata==0.23
